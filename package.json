@@ -1,0 +1,24 @@
+{
+  "name": "com.kalkuz.utility",
+  "version": "0.0.1",
+  "displayName": "Kalkuz Utility",
+  "description": "Utility classes to help programmers write less and clean code.",
+  "category": "Tools",
+  "unity": "2020.3",
+  "unityRelease": "21f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+  },
+  "keywords": [
+    "scripts",
+    "tools",
+    "utility"
+  ],
+  "author": {
+    "name": "Oğuzhan Kalkuz",
+    "email": "oguzhan@kalkuz.me",
+    "url": ""
+  }
+}
